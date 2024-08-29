@@ -16,11 +16,5 @@ To run this project locally and view the landing page live, follow these steps:
 4. Open the HTML file in Visual Studio Code.
 5. Right-click on the HTML file and select "Open with Live Server" to launch the project in your default browser.
 
-## Preview
-Add a screenshot or GIF of the landing page here
-
-## Contributing
-If you would like to contribute to this project, feel free to submit a pull request. All contributions are welcome!
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
